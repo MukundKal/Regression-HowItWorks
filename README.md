@@ -1,4 +1,6 @@
-# Regression-HowItWorks
+# Regression-How-It-Works
+
+##Linear Regression:
 Digging into the regression algorithm, undertstanding and coding it from scratch.
 
 The _Best-Fit Line_ to a particular set of data is the linear line that fits it the most.
